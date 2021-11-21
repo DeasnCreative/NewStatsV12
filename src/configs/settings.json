@@ -1,0 +1,6 @@
+{
+  "token": "OTEwNTk5MDk4MjE2ODk4NjEx.YZVLfw.0TBPyoL2r3OmdtfewJI3ffy2GLY",
+  "prefix": ["!"],
+  "mongoUrl": "mongodb+srv://deasnask:deasn123@cluster0.u4nrb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": ["852608747813077052"]
+}
